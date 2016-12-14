@@ -1,0 +1,23 @@
+{
+  "name": "thems and comments list",
+  "description": "thems and comments list on angular",
+  "main": "build/index.html",
+  "authors": [
+    "Ruslan Hasko <RuslanHasko@gmail.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.2.29",
+    "normalize-less": "*"
+  }
+}
